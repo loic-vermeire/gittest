@@ -1,0 +1,23 @@
+[
+  {
+    "date": "2017-09-09T13:24:48",
+    "id": 1,
+    "isClientResponse": false,
+    "text": "Account was geblokkeerd",
+    "ticket": null
+  },
+  {
+    "date": "2017-09-09T13:29:11",
+    "id": 2,
+    "isClientResponse": false,
+    "text": "Account terug in orde en nieuw paswoord ingesteld",
+    "ticket": null
+  },
+  {
+    "date": "2017-09-10T07:22:36",
+    "id": 3,
+    "isClientResponse": true,
+    "text": "Aanmelden gelukt en paswoord gewijzigd",
+    "ticket": null
+  }
+]

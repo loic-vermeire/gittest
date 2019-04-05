@@ -1,0 +1,16 @@
+@model SC.BL.Domain.Ticket
+
+@{
+    ViewBag.Title = "Ticket verwijderen";
+    Layout = "_Layout";
+}
+
+<h2>Ticket verwijderen</h2>
+<p>Ben je zeker dat je onderstaand ticket wenst te verwijderen?</p>
+
+<partial name="_TicketDetailsPartial" for="@Model"/>
+
+<form asp-action="DeleteConfirmed" asp-controller="Ticket" asp-route-id="@Model.TicketNumber" method="post">
+    <input type="submit" value="Verwijderen"/>
+    | <a asp-action="Index" asp-controller="Ticket">Annuleer</a>
+</form>

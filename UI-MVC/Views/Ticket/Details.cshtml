@@ -1,0 +1,81 @@
+@model SC.BL.Domain.Ticket
+
+@{
+    ViewBag.Title = "Ticket";
+    Layout = "_Layout";
+}
+
+<h2>Ticket</h2>
+
+<partial name="_TicketDetailsPartial" for="@Model"/>
+
+<a asp-action="Edit" asp-controller="Ticket" asp-route-id="@Model.TicketNumber">Bewerk</a>
+| <a asp-action="Index" asp-controller="Ticket">Lijst</a>
+
+<h3>Responses</h3>
+<btn class="btn btn-default" onclick="loadResponsesOfTicket(@Model.TicketNumber)">Laad antwoorden</btn>
+<table id="responses" class="table">
+    <tr>
+        <th>Antwoord</th>
+        <th>Datum</th>
+        <th>Klant antwoord?</th>
+    </tr>
+    @foreach (SC.BL.Domain.TicketResponse response in (IEnumerable<SC.BL.Domain.TicketResponse>) ViewBag.Responses)
+    {
+        <tr>
+            <td>@response.Text</td>
+            <td>@response.Date</td>
+            <td><input asp-for="@response.IsClientResponse" disabled/></td>
+        </tr>
+    }
+</table>
+
+<input id="responseText" name="responseText", type="text" style="margin-right: 5px"/>
+<btn class="btn btn-default" onclick="postResponse()">Verzenden</btn>
+
+@section Scripts
+{
+    <script type="text/javascript">
+        function loadResponsesOfTicket(ticketNumber) {
+            $.ajax('/api/ticketresponses?ticketNumber=' + ticketNumber, { type: 'GET', dataType: 'json' })
+                .done(function(data) { showTicketResponses(data); })
+                .fail(function() { alert("Oops, something went wrong!") });
+        }
+
+        function showTicketResponses(responses) {
+            $('table#responses').find('tr:gt(0)').remove();
+            responses.forEach(function(response) { addResponseToList(response); });
+        };
+    
+        
+        function addResponseToList(response) {
+            var date = new Date(response.date);
+            var checked = response.isClientResponse ? 'checked="checked"' : '';
+            $('table#responses').append('<tr>' 
+                + '<td>' + response.text + '</td>'
+                + '<td>' + date.toLocaleString(navigator.language) + '</td>' 
+                + '<td><input type="checkbox" disabled ' + checked + '/></td>' 
+                + '</tr>');
+        }
+        
+        function postResponse() {
+            var ticketNumber = '@Model.TicketNumber';
+            var answer = $('#responseText').val();
+            if (answer) {
+                var newResponse = { ticketNumber: ticketNumber, responseText: answer, isClientResponse: false };
+                $.ajax('/api/TicketResponses',
+                        {
+                            type: 'POST',
+                            data: JSON.stringify(newResponse),
+                            contentType: 'application/json',
+                            dataType: 'json'
+                        })
+                    .done(function(data) {
+                        addResponseToList(data);
+                        $('#responseText').val('');
+                    })
+                    .fail(function() { alert('Oops, something went wrong!'); });
+            }
+        }
+    </script>
+}

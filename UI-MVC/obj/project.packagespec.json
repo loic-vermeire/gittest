@@ -1,0 +1,61 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "D:\\KdG\\2018-2019\\Programmeren 2 .NET Framework\\Projecten\\SupportCenter\\UI-MVC\\UI-MVC.csproj",
+    "projectName": "SC.UI.Web.MVC",
+    "projectPath": "D:\\KdG\\2018-2019\\Programmeren 2 .NET Framework\\Projecten\\SupportCenter\\UI-MVC\\UI-MVC.csproj",
+    "outputPath": "D:\\KdG\\2018-2019\\Programmeren 2 .NET Framework\\Projecten\\SupportCenter\\UI-MVC\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.1"
+    ],
+    "frameworks": {
+      "netcoreapp2.1": {
+        "projectReferences": {
+          "D:\\KdG\\2018-2019\\Programmeren 2 .NET Framework\\Projecten\\SupportCenter\\BL\\BL.csproj": {
+            "projectPath": "D:\\KdG\\2018-2019\\Programmeren 2 .NET Framework\\Projecten\\SupportCenter\\BL\\BL.csproj"
+          },
+          "D:\\KdG\\2018-2019\\Programmeren 2 .NET Framework\\Projecten\\SupportCenter\\Domain\\Domain.csproj": {
+            "projectPath": "D:\\KdG\\2018-2019\\Programmeren 2 .NET Framework\\Projecten\\SupportCenter\\Domain\\Domain.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.1": {
+      "dependencies": {
+        "Microsoft.AspNetCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.1.1, )",
+          "autoReferenced": true
+        },
+        "Microsoft.AspNetCore.Razor.Design": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.1.2, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.1.0, )",
+          "autoReferenced": true
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

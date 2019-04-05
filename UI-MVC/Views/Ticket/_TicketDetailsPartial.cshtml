@@ -1,0 +1,23 @@
+<dl class="dl-horizontal">
+    <dt>Id</dt><dd>@Model.TicketNumber</dd>
+    <dt>Account</dt><dd>@Model.AccountID</dd>
+    <dt>Probleem</dt><dd>@Model.Text</dd>
+    <dt>Aangemaakt op</dt><dd>@Model.DateOpened</dd>
+    <dt>Status</dt>
+    <dd>
+        <span id="state">@Model.State</span>
+        @if (Model.State != SC.BL.Domain.TicketState.Closed)
+        {
+            <button type="button" class="btn btn-default" onclick="closeTicket(@Model.TicketNumber)">Close</button>
+        }        
+    </dd>
+</dl>
+
+<script type="text/javascript">
+    function closeTicket(ticketNumber) {
+        $.ajax('/api/Tickets/' + ticketNumber + '/State/Closed',{type: 'PUT'})
+            .done(function() { $('#state').html('Closed'); })
+            .fail(function() { alert("Oops, something went wrong!"); });
+    }
+</script>
+

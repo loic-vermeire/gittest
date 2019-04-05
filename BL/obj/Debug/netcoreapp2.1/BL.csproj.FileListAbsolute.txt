@@ -1,0 +1,28 @@
+D:\KdG\2018-2019\Programmeren 2 .NET\Projecten\SupportCenter\BL\bin\Debug\netcoreapp2.1\SC.BL.deps.json
+D:\KdG\2018-2019\Programmeren 2 .NET\Projecten\SupportCenter\BL\bin\Debug\netcoreapp2.1\SC.BL.dll
+D:\KdG\2018-2019\Programmeren 2 .NET\Projecten\SupportCenter\BL\bin\Debug\netcoreapp2.1\SC.BL.pdb
+D:\KdG\2018-2019\Programmeren 2 .NET\Projecten\SupportCenter\BL\bin\Debug\netcoreapp2.1\SC.BL.Domain.dll
+D:\KdG\2018-2019\Programmeren 2 .NET\Projecten\SupportCenter\BL\bin\Debug\netcoreapp2.1\SC.DAL.dll
+D:\KdG\2018-2019\Programmeren 2 .NET\Projecten\SupportCenter\BL\bin\Debug\netcoreapp2.1\SC.DAL.pdb
+D:\KdG\2018-2019\Programmeren 2 .NET\Projecten\SupportCenter\BL\bin\Debug\netcoreapp2.1\SC.BL.Domain.pdb
+D:\KdG\2018-2019\Programmeren 2 .NET\Projecten\SupportCenter\BL\obj\Debug\netcoreapp2.1\BL.csprojAssemblyReference.cache
+D:\KdG\2018-2019\Programmeren 2 .NET\Projecten\SupportCenter\BL\obj\Debug\netcoreapp2.1\BL.csproj.CoreCompileInputs.cache
+D:\KdG\2018-2019\Programmeren 2 .NET\Projecten\SupportCenter\BL\obj\Debug\netcoreapp2.1\BL.AssemblyInfoInputs.cache
+D:\KdG\2018-2019\Programmeren 2 .NET\Projecten\SupportCenter\BL\obj\Debug\netcoreapp2.1\BL.AssemblyInfo.cs
+D:\KdG\2018-2019\Programmeren 2 .NET\Projecten\SupportCenter\BL\obj\Debug\netcoreapp2.1\BL.csproj.CopyComplete
+D:\KdG\2018-2019\Programmeren 2 .NET\Projecten\SupportCenter\BL\obj\Debug\netcoreapp2.1\SC.BL.dll
+D:\KdG\2018-2019\Programmeren 2 .NET\Projecten\SupportCenter\BL\obj\Debug\netcoreapp2.1\SC.BL.pdb
+D:\KdG\2018-2019\Programmeren 2 .NET Framework\Projecten\SupportCenter\BL\bin\Debug\netcoreapp2.1\SC.BL.deps.json
+D:\KdG\2018-2019\Programmeren 2 .NET Framework\Projecten\SupportCenter\BL\bin\Debug\netcoreapp2.1\SC.BL.dll
+D:\KdG\2018-2019\Programmeren 2 .NET Framework\Projecten\SupportCenter\BL\bin\Debug\netcoreapp2.1\SC.BL.pdb
+D:\KdG\2018-2019\Programmeren 2 .NET Framework\Projecten\SupportCenter\BL\bin\Debug\netcoreapp2.1\SC.BL.Domain.dll
+D:\KdG\2018-2019\Programmeren 2 .NET Framework\Projecten\SupportCenter\BL\bin\Debug\netcoreapp2.1\SC.DAL.dll
+D:\KdG\2018-2019\Programmeren 2 .NET Framework\Projecten\SupportCenter\BL\bin\Debug\netcoreapp2.1\SC.DAL.pdb
+D:\KdG\2018-2019\Programmeren 2 .NET Framework\Projecten\SupportCenter\BL\bin\Debug\netcoreapp2.1\SC.BL.Domain.pdb
+D:\KdG\2018-2019\Programmeren 2 .NET Framework\Projecten\SupportCenter\BL\obj\Debug\netcoreapp2.1\BL.csprojAssemblyReference.cache
+D:\KdG\2018-2019\Programmeren 2 .NET Framework\Projecten\SupportCenter\BL\obj\Debug\netcoreapp2.1\BL.csproj.CoreCompileInputs.cache
+D:\KdG\2018-2019\Programmeren 2 .NET Framework\Projecten\SupportCenter\BL\obj\Debug\netcoreapp2.1\BL.AssemblyInfoInputs.cache
+D:\KdG\2018-2019\Programmeren 2 .NET Framework\Projecten\SupportCenter\BL\obj\Debug\netcoreapp2.1\BL.AssemblyInfo.cs
+D:\KdG\2018-2019\Programmeren 2 .NET Framework\Projecten\SupportCenter\BL\obj\Debug\netcoreapp2.1\BL.csproj.CopyComplete
+D:\KdG\2018-2019\Programmeren 2 .NET Framework\Projecten\SupportCenter\BL\obj\Debug\netcoreapp2.1\SC.BL.dll
+D:\KdG\2018-2019\Programmeren 2 .NET Framework\Projecten\SupportCenter\BL\obj\Debug\netcoreapp2.1\SC.BL.pdb

@@ -1,0 +1,75 @@
+PUT https://localhost:5001/api/tickets/3/State/Closed
+
+###
+
+PUT https://localhost:5001/api/tickets/2/State/Closed
+
+###
+
+PUT https://localhost:5001/api/tickets/2/State/Closed
+
+<> 2019-01-03T013558.500.html
+
+###
+
+PUT https://localhost:5001/api/tickets/3/State/Closed
+
+<> 2019-01-03T013514.500.html
+
+###
+
+PUT https://localhost:5001/api/tickets/2/State/Closed
+
+###
+
+PUT https://localhost:5001/api/tickets/2/State/Closed
+
+###
+
+POST https://localhost:5001/api/ticketresponses
+Accept: application/json
+Content-Type: application/json
+
+{"ticketNumber":2,"responseText":"een nieuw antwoord","isClientResponse":false}
+
+<> 2019-01-03T010631.201.json
+
+###
+
+POST https://localhost:5001/api/ticketresponses
+Accept: application/json
+Content-Type: application/json
+
+{"ticketNumber":2,"responseText":"een nieuw antwoord","isClientResponse":false}
+
+###
+
+POST https://localhost:5001/api/ticketresponses
+Accept: application/json
+Content-Type: application/json
+
+{"ticketNumber":2,"responseText":"een nieuw antwoord","isClientResponse":false}
+
+###
+
+POST https://localhost:5001/api/ticketresponses
+Accept: application/json
+Content-Type: application/json
+
+{"ticketNumber":2,"responseText":"een nieuw antwoord","isClientResponse":false}
+
+###
+
+GET https://localhost:5001/api/ticketresponses?ticketNumber=1
+Accept: application/json
+
+<> 2019-01-03T115736.200.json
+
+###
+
+GET https://localhost:5001/api/ticketresponses?ticketNumber=1
+
+<> 2019-01-03T115700.200.json
+
+###
+

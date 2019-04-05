@@ -1,0 +1,88 @@
+D:\KdG\2018-2019\Programmeren 2 .NET\Projecten\SupportCenter\UI-MVC\bin\Debug\netcoreapp2.1\SC.UI.Web.MVC.deps.json
+D:\KdG\2018-2019\Programmeren 2 .NET\Projecten\SupportCenter\UI-MVC\bin\Debug\netcoreapp2.1\SC.UI.Web.MVC.runtimeconfig.json
+D:\KdG\2018-2019\Programmeren 2 .NET\Projecten\SupportCenter\UI-MVC\bin\Debug\netcoreapp2.1\SC.UI.Web.MVC.runtimeconfig.dev.json
+D:\KdG\2018-2019\Programmeren 2 .NET\Projecten\SupportCenter\UI-MVC\bin\Debug\netcoreapp2.1\SC.UI.Web.MVC.dll
+D:\KdG\2018-2019\Programmeren 2 .NET\Projecten\SupportCenter\UI-MVC\bin\Debug\netcoreapp2.1\SC.UI.Web.MVC.pdb
+D:\KdG\2018-2019\Programmeren 2 .NET\Projecten\SupportCenter\UI-MVC\bin\Debug\netcoreapp2.1\SC.UI.Web.MVC.Views.dll
+D:\KdG\2018-2019\Programmeren 2 .NET\Projecten\SupportCenter\UI-MVC\bin\Debug\netcoreapp2.1\SC.UI.Web.MVC.Views.pdb
+D:\KdG\2018-2019\Programmeren 2 .NET\Projecten\SupportCenter\UI-MVC\bin\Debug\netcoreapp2.1\SC.BL.dll
+D:\KdG\2018-2019\Programmeren 2 .NET\Projecten\SupportCenter\UI-MVC\bin\Debug\netcoreapp2.1\SC.BL.Domain.dll
+D:\KdG\2018-2019\Programmeren 2 .NET\Projecten\SupportCenter\UI-MVC\bin\Debug\netcoreapp2.1\SC.DAL.dll
+D:\KdG\2018-2019\Programmeren 2 .NET\Projecten\SupportCenter\UI-MVC\bin\Debug\netcoreapp2.1\SC.BL.pdb
+D:\KdG\2018-2019\Programmeren 2 .NET\Projecten\SupportCenter\UI-MVC\bin\Debug\netcoreapp2.1\SC.BL.Domain.pdb
+D:\KdG\2018-2019\Programmeren 2 .NET\Projecten\SupportCenter\UI-MVC\bin\Debug\netcoreapp2.1\SC.DAL.pdb
+D:\KdG\2018-2019\Programmeren 2 .NET\Projecten\SupportCenter\UI-MVC\obj\Debug\netcoreapp2.1\UI-MVC.csprojAssemblyReference.cache
+D:\KdG\2018-2019\Programmeren 2 .NET\Projecten\SupportCenter\UI-MVC\obj\Debug\netcoreapp2.1\UI-MVC.csproj.CoreCompileInputs.cache
+D:\KdG\2018-2019\Programmeren 2 .NET\Projecten\SupportCenter\UI-MVC\obj\Debug\netcoreapp2.1\UI-MVC.RazorAssemblyInfo.cache
+D:\KdG\2018-2019\Programmeren 2 .NET\Projecten\SupportCenter\UI-MVC\obj\Debug\netcoreapp2.1\UI-MVC.RazorAssemblyInfo.cs
+D:\KdG\2018-2019\Programmeren 2 .NET\Projecten\SupportCenter\UI-MVC\obj\Debug\netcoreapp2.1\UI-MVC.AssemblyInfoInputs.cache
+D:\KdG\2018-2019\Programmeren 2 .NET\Projecten\SupportCenter\UI-MVC\obj\Debug\netcoreapp2.1\UI-MVC.AssemblyInfo.cs
+D:\KdG\2018-2019\Programmeren 2 .NET\Projecten\SupportCenter\UI-MVC\obj\Debug\netcoreapp2.1\SC.UI.Web.MVC.TagHelpers.input.cache
+D:\KdG\2018-2019\Programmeren 2 .NET\Projecten\SupportCenter\UI-MVC\obj\Debug\netcoreapp2.1\SC.UI.Web.MVC.TagHelpers.output.cache
+D:\KdG\2018-2019\Programmeren 2 .NET\Projecten\SupportCenter\UI-MVC\obj\Debug\netcoreapp2.1\UI-MVC.RazorCoreGenerate.cache
+D:\KdG\2018-2019\Programmeren 2 .NET\Projecten\SupportCenter\UI-MVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+D:\KdG\2018-2019\Programmeren 2 .NET\Projecten\SupportCenter\UI-MVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+D:\KdG\2018-2019\Programmeren 2 .NET\Projecten\SupportCenter\UI-MVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\KdG\2018-2019\Programmeren 2 .NET\Projecten\SupportCenter\UI-MVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\KdG\2018-2019\Programmeren 2 .NET\Projecten\SupportCenter\UI-MVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\KdG\2018-2019\Programmeren 2 .NET\Projecten\SupportCenter\UI-MVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\KdG\2018-2019\Programmeren 2 .NET\Projecten\SupportCenter\UI-MVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\KdG\2018-2019\Programmeren 2 .NET\Projecten\SupportCenter\UI-MVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\KdG\2018-2019\Programmeren 2 .NET\Projecten\SupportCenter\UI-MVC\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\KdG\2018-2019\Programmeren 2 .NET\Projecten\SupportCenter\UI-MVC\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\KdG\2018-2019\Programmeren 2 .NET\Projecten\SupportCenter\UI-MVC\obj\Debug\netcoreapp2.1\UI-MVC.RazorTargetAssemblyInfo.cache
+D:\KdG\2018-2019\Programmeren 2 .NET\Projecten\SupportCenter\UI-MVC\obj\Debug\netcoreapp2.1\UI-MVC.RazorTargetAssemblyInfo.cs
+D:\KdG\2018-2019\Programmeren 2 .NET\Projecten\SupportCenter\UI-MVC\obj\Debug\netcoreapp2.1\SC.UI.Web.MVC.Views.pdb
+D:\KdG\2018-2019\Programmeren 2 .NET\Projecten\SupportCenter\UI-MVC\obj\Debug\netcoreapp2.1\UI-MVC.csproj.CopyComplete
+D:\KdG\2018-2019\Programmeren 2 .NET\Projecten\SupportCenter\UI-MVC\obj\Debug\netcoreapp2.1\SC.UI.Web.MVC.dll
+D:\KdG\2018-2019\Programmeren 2 .NET\Projecten\SupportCenter\UI-MVC\obj\Debug\netcoreapp2.1\SC.UI.Web.MVC.pdb
+D:\KdG\2018-2019\Programmeren 2 .NET\Projecten\SupportCenter\UI-MVC\obj\Debug\netcoreapp2.1\Razor\Views\Ticket\Index.g.cshtml.cs
+D:\KdG\2018-2019\Programmeren 2 .NET\Projecten\SupportCenter\UI-MVC\obj\Debug\netcoreapp2.1\Razor\Views\Ticket\Details.g.cshtml.cs
+D:\KdG\2018-2019\Programmeren 2 .NET\Projecten\SupportCenter\UI-MVC\obj\Debug\netcoreapp2.1\Razor\Views\Ticket\Edit.g.cshtml.cs
+D:\KdG\2018-2019\Programmeren 2 .NET\Projecten\SupportCenter\UI-MVC\obj\Debug\netcoreapp2.1\Razor\Views\Ticket\Create.g.cshtml.cs
+D:\KdG\2018-2019\Programmeren 2 .NET\Projecten\SupportCenter\UI-MVC\obj\Debug\netcoreapp2.1\Razor\Views\Ticket\Delete.g.cshtml.cs
+D:\KdG\2018-2019\Programmeren 2 .NET\Projecten\SupportCenter\UI-MVC\obj\Debug\netcoreapp2.1\Razor\Views\Ticket\_TicketDetailsPartial.g.cshtml.cs
+D:\KdG\2018-2019\Programmeren 2 .NET Framework\Projecten\SupportCenter\UI-MVC\bin\Debug\netcoreapp2.1\SC.UI.Web.MVC.deps.json
+D:\KdG\2018-2019\Programmeren 2 .NET Framework\Projecten\SupportCenter\UI-MVC\bin\Debug\netcoreapp2.1\SC.UI.Web.MVC.runtimeconfig.json
+D:\KdG\2018-2019\Programmeren 2 .NET Framework\Projecten\SupportCenter\UI-MVC\bin\Debug\netcoreapp2.1\SC.UI.Web.MVC.runtimeconfig.dev.json
+D:\KdG\2018-2019\Programmeren 2 .NET Framework\Projecten\SupportCenter\UI-MVC\bin\Debug\netcoreapp2.1\SC.UI.Web.MVC.dll
+D:\KdG\2018-2019\Programmeren 2 .NET Framework\Projecten\SupportCenter\UI-MVC\bin\Debug\netcoreapp2.1\SC.UI.Web.MVC.pdb
+D:\KdG\2018-2019\Programmeren 2 .NET Framework\Projecten\SupportCenter\UI-MVC\bin\Debug\netcoreapp2.1\SC.UI.Web.MVC.Views.dll
+D:\KdG\2018-2019\Programmeren 2 .NET Framework\Projecten\SupportCenter\UI-MVC\bin\Debug\netcoreapp2.1\SC.UI.Web.MVC.Views.pdb
+D:\KdG\2018-2019\Programmeren 2 .NET Framework\Projecten\SupportCenter\UI-MVC\bin\Debug\netcoreapp2.1\SC.BL.dll
+D:\KdG\2018-2019\Programmeren 2 .NET Framework\Projecten\SupportCenter\UI-MVC\bin\Debug\netcoreapp2.1\SC.BL.Domain.dll
+D:\KdG\2018-2019\Programmeren 2 .NET Framework\Projecten\SupportCenter\UI-MVC\bin\Debug\netcoreapp2.1\SC.DAL.dll
+D:\KdG\2018-2019\Programmeren 2 .NET Framework\Projecten\SupportCenter\UI-MVC\bin\Debug\netcoreapp2.1\SC.BL.pdb
+D:\KdG\2018-2019\Programmeren 2 .NET Framework\Projecten\SupportCenter\UI-MVC\bin\Debug\netcoreapp2.1\SC.BL.Domain.pdb
+D:\KdG\2018-2019\Programmeren 2 .NET Framework\Projecten\SupportCenter\UI-MVC\bin\Debug\netcoreapp2.1\SC.DAL.pdb
+D:\KdG\2018-2019\Programmeren 2 .NET Framework\Projecten\SupportCenter\UI-MVC\obj\Debug\netcoreapp2.1\UI-MVC.csprojAssemblyReference.cache
+D:\KdG\2018-2019\Programmeren 2 .NET Framework\Projecten\SupportCenter\UI-MVC\obj\Debug\netcoreapp2.1\UI-MVC.csproj.CoreCompileInputs.cache
+D:\KdG\2018-2019\Programmeren 2 .NET Framework\Projecten\SupportCenter\UI-MVC\obj\Debug\netcoreapp2.1\UI-MVC.RazorAssemblyInfo.cache
+D:\KdG\2018-2019\Programmeren 2 .NET Framework\Projecten\SupportCenter\UI-MVC\obj\Debug\netcoreapp2.1\UI-MVC.RazorAssemblyInfo.cs
+D:\KdG\2018-2019\Programmeren 2 .NET Framework\Projecten\SupportCenter\UI-MVC\obj\Debug\netcoreapp2.1\UI-MVC.AssemblyInfoInputs.cache
+D:\KdG\2018-2019\Programmeren 2 .NET Framework\Projecten\SupportCenter\UI-MVC\obj\Debug\netcoreapp2.1\UI-MVC.AssemblyInfo.cs
+D:\KdG\2018-2019\Programmeren 2 .NET Framework\Projecten\SupportCenter\UI-MVC\obj\Debug\netcoreapp2.1\SC.UI.Web.MVC.TagHelpers.input.cache
+D:\KdG\2018-2019\Programmeren 2 .NET Framework\Projecten\SupportCenter\UI-MVC\obj\Debug\netcoreapp2.1\SC.UI.Web.MVC.TagHelpers.output.cache
+D:\KdG\2018-2019\Programmeren 2 .NET Framework\Projecten\SupportCenter\UI-MVC\obj\Debug\netcoreapp2.1\UI-MVC.RazorCoreGenerate.cache
+D:\KdG\2018-2019\Programmeren 2 .NET Framework\Projecten\SupportCenter\UI-MVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+D:\KdG\2018-2019\Programmeren 2 .NET Framework\Projecten\SupportCenter\UI-MVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+D:\KdG\2018-2019\Programmeren 2 .NET Framework\Projecten\SupportCenter\UI-MVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\KdG\2018-2019\Programmeren 2 .NET Framework\Projecten\SupportCenter\UI-MVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\KdG\2018-2019\Programmeren 2 .NET Framework\Projecten\SupportCenter\UI-MVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\KdG\2018-2019\Programmeren 2 .NET Framework\Projecten\SupportCenter\UI-MVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\KdG\2018-2019\Programmeren 2 .NET Framework\Projecten\SupportCenter\UI-MVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\KdG\2018-2019\Programmeren 2 .NET Framework\Projecten\SupportCenter\UI-MVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\KdG\2018-2019\Programmeren 2 .NET Framework\Projecten\SupportCenter\UI-MVC\obj\Debug\netcoreapp2.1\Razor\Views\Ticket\Create.g.cshtml.cs
+D:\KdG\2018-2019\Programmeren 2 .NET Framework\Projecten\SupportCenter\UI-MVC\obj\Debug\netcoreapp2.1\Razor\Views\Ticket\Delete.g.cshtml.cs
+D:\KdG\2018-2019\Programmeren 2 .NET Framework\Projecten\SupportCenter\UI-MVC\obj\Debug\netcoreapp2.1\Razor\Views\Ticket\Details.g.cshtml.cs
+D:\KdG\2018-2019\Programmeren 2 .NET Framework\Projecten\SupportCenter\UI-MVC\obj\Debug\netcoreapp2.1\Razor\Views\Ticket\Edit.g.cshtml.cs
+D:\KdG\2018-2019\Programmeren 2 .NET Framework\Projecten\SupportCenter\UI-MVC\obj\Debug\netcoreapp2.1\Razor\Views\Ticket\Index.g.cshtml.cs
+D:\KdG\2018-2019\Programmeren 2 .NET Framework\Projecten\SupportCenter\UI-MVC\obj\Debug\netcoreapp2.1\Razor\Views\Ticket\_TicketDetailsPartial.g.cshtml.cs
+D:\KdG\2018-2019\Programmeren 2 .NET Framework\Projecten\SupportCenter\UI-MVC\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\KdG\2018-2019\Programmeren 2 .NET Framework\Projecten\SupportCenter\UI-MVC\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\KdG\2018-2019\Programmeren 2 .NET Framework\Projecten\SupportCenter\UI-MVC\obj\Debug\netcoreapp2.1\UI-MVC.RazorTargetAssemblyInfo.cache
+D:\KdG\2018-2019\Programmeren 2 .NET Framework\Projecten\SupportCenter\UI-MVC\obj\Debug\netcoreapp2.1\UI-MVC.RazorTargetAssemblyInfo.cs
+D:\KdG\2018-2019\Programmeren 2 .NET Framework\Projecten\SupportCenter\UI-MVC\obj\Debug\netcoreapp2.1\SC.UI.Web.MVC.Views.pdb
+D:\KdG\2018-2019\Programmeren 2 .NET Framework\Projecten\SupportCenter\UI-MVC\obj\Debug\netcoreapp2.1\UI-MVC.csproj.CopyComplete
+D:\KdG\2018-2019\Programmeren 2 .NET Framework\Projecten\SupportCenter\UI-MVC\obj\Debug\netcoreapp2.1\SC.UI.Web.MVC.dll
+D:\KdG\2018-2019\Programmeren 2 .NET Framework\Projecten\SupportCenter\UI-MVC\obj\Debug\netcoreapp2.1\SC.UI.Web.MVC.pdb
