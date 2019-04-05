@@ -14,7 +14,7 @@ namespace SC.DAL.EF
         
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseMySql("server=127.0.0.1,3306;database=testDb;user=root;password=welcome");
+            optionsBuilder.UseMySql("server=SQL_CLOUD_IP,3306;database=SQL_CLOUD_DBNAME;user=SQL_CLOUD_USER;password=SQL_CLOUD_PW");
             optionsBuilder.UseLoggerFactory(new LoggerFactory(new[]
             {
                 new DebugLoggerProvider((category, level) => category == DbLoggerCategory.Database.Command.Name

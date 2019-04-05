@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="063dc5e2-ac34-491f-b36c-efb23491d9f9" name="Default Changelist" comment="" />
+    <list default="true" id="063dc5e2-ac34-491f-b36c-efb23491d9f9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.SupportCenter/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.SupportCenter/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAL/EF/SupportCenterDBContext.cs" beforeDir="false" afterPath="$PROJECT_DIR$/DAL/EF/SupportCenterDBContext.cs" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.idea/httpRequests/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -92,14 +95,14 @@
         <entry file="file://$PROJECT_DIR$/DAL/EF/SupportCenterDBContext.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="221">
-              <caret line="16" column="58" selection-start-line="16" selection-start-column="58" selection-end-line="16" selection-end-column="58" />
+              <caret line="16" column="87" selection-start-line="16" selection-start-column="87" selection-end-line="16" selection-end-column="87" />
               <folding>
-                <marker date="1554224046194" expanded="false" signature="6:134" ph="..." />
-                <marker date="1554224046194" expanded="true" signature="155:1341" ph="{...}" />
-                <marker date="1554224046194" expanded="true" signature="209:1339" ph="{...}" />
-                <marker date="1554224046194" expanded="true" signature="503:989" ph="{...}" />
-                <marker date="1554224046194" expanded="true" signature="699:921" ph="{...}" />
-                <marker date="1554224046194" expanded="true" signature="1065:1333" ph="{...}" />
+                <marker date="1554467332270" expanded="false" signature="6:134" ph="..." />
+                <marker date="1554467332270" expanded="true" signature="155:1369" ph="{...}" />
+                <marker date="1554467332270" expanded="true" signature="209:1367" ph="{...}" />
+                <marker date="1554467332270" expanded="true" signature="503:1017" ph="{...}" />
+                <marker date="1554467332270" expanded="true" signature="727:949" ph="{...}" />
+                <marker date="1554467332270" expanded="true" signature="1093:1361" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -132,7 +135,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/UI-CA/Program.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="833">
+            <state relative-caret-position="799">
               <caret line="55" column="34" selection-start-line="55" selection-start-column="34" selection-end-line="55" selection-end-column="34" />
               <folding>
                 <marker date="1546523823725" expanded="false" signature="8:115" ph="..." />
@@ -165,7 +168,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/UI-MVC/Startup.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
+            <state relative-caret-position="323">
               <caret line="32" column="12" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
               <folding>
                 <marker date="1554208281076" expanded="false" signature="6:307" ph="..." />
@@ -200,6 +203,9 @@
         <option value="HTTP Request" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/UI-MVC/Controllers/TicketController.cs" root0="FORCE_HIGHLIGHTING" />
@@ -300,11 +306,11 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AssemblyExplorer" />
-      <pane id="FileSystemExplorer" />
       <pane id="SolutionExplorer">
         <option name="show-all-files" value="true" />
       </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -575,11 +581,12 @@
       <workItem from="1554221961454" duration="1658000" />
       <workItem from="1554224061721" duration="955000" />
       <workItem from="1554449230631" duration="894000" />
+      <workItem from="1554462898742" duration="1851000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="92766000" />
+    <option name="totallyTimeSpent" value="94617000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -593,7 +600,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19463088" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19731544" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Capture Tool" order="3" />
@@ -608,7 +615,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="NuGet" order="7" weight="0.32152975" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="bottom" id="Database Changes" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection Results" order="11" weight="0.3287858" />
       <window_info anchor="bottom" id="Unit Tests" order="12" />
@@ -1207,7 +1214,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/UI-CA/Program.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="833">
+        <state relative-caret-position="799">
           <caret line="55" column="34" selection-start-line="55" selection-start-column="34" selection-end-line="55" selection-end-column="34" />
           <folding>
             <marker date="1546523823725" expanded="false" signature="8:115" ph="..." />
@@ -1238,7 +1245,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/UI-MVC/Startup.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
+        <state relative-caret-position="323">
           <caret line="32" column="12" selection-start-line="32" selection-start-column="12" selection-end-line="32" selection-end-column="12" />
           <folding>
             <marker date="1554208281076" expanded="false" signature="6:307" ph="..." />
@@ -1265,14 +1272,14 @@
     <entry file="file://$PROJECT_DIR$/DAL/EF/SupportCenterDBContext.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
-          <caret line="16" column="58" selection-start-line="16" selection-start-column="58" selection-end-line="16" selection-end-column="58" />
+          <caret line="16" column="87" selection-start-line="16" selection-start-column="87" selection-end-line="16" selection-end-column="87" />
           <folding>
-            <marker date="1554224046194" expanded="false" signature="6:134" ph="..." />
-            <marker date="1554224046194" expanded="true" signature="155:1341" ph="{...}" />
-            <marker date="1554224046194" expanded="true" signature="209:1339" ph="{...}" />
-            <marker date="1554224046194" expanded="true" signature="503:989" ph="{...}" />
-            <marker date="1554224046194" expanded="true" signature="699:921" ph="{...}" />
-            <marker date="1554224046194" expanded="true" signature="1065:1333" ph="{...}" />
+            <marker date="1554467332270" expanded="false" signature="6:134" ph="..." />
+            <marker date="1554467332270" expanded="true" signature="155:1369" ph="{...}" />
+            <marker date="1554467332270" expanded="true" signature="209:1367" ph="{...}" />
+            <marker date="1554467332270" expanded="true" signature="503:1017" ph="{...}" />
+            <marker date="1554467332270" expanded="true" signature="727:949" ph="{...}" />
+            <marker date="1554467332270" expanded="true" signature="1093:1361" ph="{...}" />
           </folding>
         </state>
       </provider>
