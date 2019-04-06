@@ -58,7 +58,7 @@ namespace AspNetCore
             WriteLiteral("\r\n<h2>Tickets</h2>\r\n\r\n");
             EndContext();
             BeginContext(130, 63, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "9eeb4a078f204177ab679f45118bd4fe", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c513f6e455914cce8ca6be63b7d82ae7", async() => {
                 BeginContext(177, 12, true);
                 WriteLiteral("Nieuw ticket");
                 EndContext();
@@ -141,7 +141,7 @@ namespace AspNetCore
             WriteLiteral("</td>\r\n            <td>\r\n                ");
             EndContext();
             BeginContext(697, 91, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8972082b9f24438ca682e56468fdddb5", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d8f80e15b71d4071b5ce7f52430ca230", async() => {
                 BeginContext(778, 6, true);
                 WriteLiteral("Bewerk");
                 EndContext();
@@ -178,7 +178,7 @@ namespace AspNetCore
             WriteLiteral("\r\n                | ");
             EndContext();
             BeginContext(808, 95, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "0d70d3cce4524c6a9dca94767f4da9e9", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "4257e67cf367402faf7325ad58803b45", async() => {
                 BeginContext(892, 7, true);
                 WriteLiteral("Details");
                 EndContext();
@@ -215,7 +215,7 @@ namespace AspNetCore
             WriteLiteral("\r\n                | ");
             EndContext();
             BeginContext(923, 96, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "3587b891c81f4f81bfa55ac70eca7f96", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d5f690cd4ae54e3e988849c8c7e45392", async() => {
                 BeginContext(1006, 9, true);
                 WriteLiteral("Verwijder");
                 EndContext();

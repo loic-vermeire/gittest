@@ -106,6 +106,7 @@
           <e p="launchSettings.json" t="Include" />
         </e>
         <e p="Startup.cs" t="Include" />
+        <e p="SupportCenterDB_EFCodeFirst.db" t="Include" />
         <e p="test_api.http" t="Include" />
         <e p="UI-MVC.csproj" t="IncludeRecursive" />
         <e p="Views" t="Include">

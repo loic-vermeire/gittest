@@ -61,7 +61,7 @@ namespace AspNetCore
             WriteLiteral("\r\n<div class=\"jumbotron\">\r\n    <h1>SupportCenter</h1>\r\n    <p>Welkom op het online helpdesk systeem</p>\r\n    ");
             EndContext();
             BeginContext(151, 58, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("environment", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "501a9467ef934ec391ff2b8f5e27cbde", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("environment", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "0fb4543ab3c440eaaddb98bc95cf5b5e", async() => {
                 BeginContext(184, 11, true);
                 WriteLiteral("Development");
                 EndContext();
@@ -83,7 +83,7 @@ namespace AspNetCore
             WriteLiteral("\r\n    ");
             EndContext();
             BeginContext(215, 56, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("environment", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "1f313f28b4c24e5480c6256b9dbba21b", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("environment", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "af23f5e5350747a389f8f374142dbec1", async() => {
                 BeginContext(247, 10, true);
                 WriteLiteral("Production");
                 EndContext();
@@ -105,7 +105,7 @@ namespace AspNetCore
             WriteLiteral("\r\n</div>\r\n\r\n<div class=\"row\">\r\n    <div class=\"col-md-4\">\r\n        <h2>Nieuw ticket</h2>\r\n        <p>Maak een nieuw ticket aan in het systeem</p>\r\n        ");
             EndContext();
             BeginContext(426, 87, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "250bbda059464560a65872b2b6ff9151", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "3fe9e5dfe6864d02b554e28f27160338", async() => {
                 BeginContext(497, 12, true);
                 WriteLiteral("Nieuw ticket");
                 EndContext();
@@ -130,7 +130,7 @@ namespace AspNetCore
             WriteLiteral("\r\n    </div>\r\n    <div class=\"col-md-4\">\r\n        <h2>Alle tickets</h2>\r\n        <p>Toont een lijst van alle bestaande tickets</p>\r\n        ");
             EndContext();
             BeginContext(653, 86, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "08ea2e97f8a244e6824d883419605e81", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "17b40f898ab042559e44c968feb761db", async() => {
                 BeginContext(723, 12, true);
                 WriteLiteral("Alle tickets");
                 EndContext();
@@ -155,7 +155,7 @@ namespace AspNetCore
             WriteLiteral("\r\n    </div>    \r\n    <div class=\"col-md-4\">\r\n        <h2>Toon ticket</h2>\r\n        <p>Geeft de details van één ticket</p>\r\n        ");
             EndContext();
             BeginContext(871, 275, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "c0ee2fd79abd445aafbe92d811e37d0e", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("form", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "63f9d80005b24821a71d5a297a59f457", async() => {
                 BeginContext(955, 184, true);
                 WriteLiteral("\r\n            <input name=\"id\" type=\"number\" class=\"form-control\" placeholder=\"Ticketnummer\"/>\r\n            <input type=\"submit\" value=\"Toon ticket\" class=\"btn btn-default\"/>\r\n        ");
                 EndContext();
