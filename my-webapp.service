@@ -1,7 +1,7 @@
 [Unit]
 Description=.NET web app
-Requires=networking.service
-After=networking.service
+#Requires=networking.service
+#After=networking.service
 
 [Service]
 
@@ -17,7 +17,7 @@ WorkingDirectory=/snap/bin
 
 #executable is a bash script which calls jar file
 
-ExecStart=/snap/bin/dotnet-sdk.dotnet run --project /home/loic/Desktop/gittest/UI-MVC
+ExecStart=/snap/bin/dotnet-sdk.dotnet run --project /app/gittest/UI-MVC
 
 
 
