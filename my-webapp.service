@@ -1,0 +1,30 @@
+[Unit]
+Description=.NET web app
+Requires=networking.service
+After=networking.service
+
+[Service]
+
+User=root
+
+# The configuration file application.properties should be here:
+
+#change this to your workspace
+
+WorkingDirectory=/snap/bin
+
+#path to executable. 
+
+#executable is a bash script which calls jar file
+
+ExecStart=/snap/bin/dotnet-sdk.dotnet run --project /home/loic/Desktop/gittest/UI-MVC
+
+
+
+Restart=always
+
+
+
+[Install]
+
+WantedBy=multi-user.target
